@@ -23,7 +23,7 @@
 		{
 			"group": "NPC - Global (except Haven Island)",
 			"name": "Doubled",
-			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from much farther distances, as is standard on Haven Island. (Does not affect Haven Island)",
+			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from farther distances, as is standard on Haven Island. (Does not affect Haven Island)",
 			"type": "select",
 			"contentFolders": ["viewcones/global/stingray"]
 		},
@@ -44,7 +44,7 @@
 		{
 			"group": "NPC - Haven Island only",
 			"name": "Doubled (Vanilla)",
-			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from far distances, as is standard on Haven Island. (Only affects Haven Island)",
+			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from farther distances, as is standard on Haven Island. (Only affects Haven Island)",
 			"type": "select",
 			"enabledByDefault": true
 		},
