@@ -1,5 +1,5 @@
 {
-	"version": "1.0.0",
+	"version": "0.2.0",
 	"id": "musicalmushr00m.AISightModifications",
 	"name": "AI Sight Modifications",
 	"description": "Provides multiple options for adjusting the vision of NPCs and Cameras, including disabling them outright.",
@@ -64,5 +64,6 @@
 			"type": "select",
 			"enabledByDefault": true
 		}
-	]
+	],
+	"updateCheck": "https://github.com/musicalmushr00m/AISightModifications/releases/latest/download/updates.json"
 }
