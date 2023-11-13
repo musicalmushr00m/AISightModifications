@@ -6,4 +6,4 @@ Provides multiple options for adjusting the vision of NPCs and Cameras, includin
 
 ---
 
-`musicalmushr00m.AISightModifications` v0.4.0, by musicalmushr00m, Atampy26, muddye. This README was automatically generated from the mod's manifest.
+`musicalmushr00m.AISightModifications` v0.4.1, by musicalmushr00m, Atampy26, muddye. This README was automatically generated from the mod's manifest.
