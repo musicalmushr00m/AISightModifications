@@ -1,9 +1,68 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"version": "1.0.0",
+	"id": "musicalmushr00m.AISightModifications",
+	"name": "AI Sight Modifications",
+	"description": "Provides multiple options for adjusting the vision of NPCs and Cameras, including disabling them outright.",
+	"authors": ["musicalmushr00m", "Atampy26", "muddye"],
+	"frameworkVersion": "2.33.6",
+	"options": [
+		{
+			"group": "NPC - Global (except Haven Island)",
+			"name": "Blind",
+			"tooltip": "NPCs are blind and cannot see anything or spot you based on sight alone. This does not prevent AI from spotting you due to omniscience. (Does not affect Haven Island)",
+			"enabledByDefault": true,
+			"type": "select",
+			"contentFolders": ["viewcones/global/blind"]
+		},
+		{
+			"group": "NPC - Global (except Haven Island)",
+			"name": "Standard (Vanilla)",
+			"tooltip": "NPCs have default vision and can see you and objects in the world from their standard ranges. (Does not affect Haven Island)",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "NPC - Global (except Haven Island)",
+			"name": "Doubled",
+			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from much farther distances, as is standard on Haven Island. (Does not affect Haven Island)",
+			"type": "select",
+			"contentFolders": ["viewcones/global/stingray"]
+		},
+		{
+			"group": "NPC - Haven Island only",
+			"name": "Blind",
+			"tooltip": "NPCs are blind and cannot see anything or spot you based on sight alone. This does not prevent AI from spotting you due to omniscience. (Only affects Haven Island)",
+			"enabledByDefault": true,
+			"type": "select",
+			"contentFolders": ["viewcones/haven/blind"]
+		},
+		{
+			"group": "NPC - Haven Island only",
+			"name": "Standard",
+			"tooltip": "NPCs have the default vision used on most levels and can see you and objects in the world from their standard ranges. (Only affects Haven Island)",
+			"type": "select",
+			"contentFolders": ["viewcones/haven/normal"]
+		},
+		{
+			"group": "NPC - Haven Island only",
+			"name": "Doubled (Vanilla)",
+			"tooltip": "NPCs have doubled vision range and can see you and objects in the world from far distances, as is standard on Haven Island. (Only affects Haven Island)",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Cameras",
+			"name": "Blind",
+			"tooltip": "Cameras cannot see anything or spot you.",
+			"type": "select",
+			"contentFolders": ["cameras/blind"]
+		},
+		{
+			"group": "Cameras",
+			"name": "Normal (Vanilla)",
+			"tooltip": "Cameras have standard vision and can see/spot you.",
+			"type": "select",
+			"enabledByDefault": true
+		}
+	]
 }

@@ -1,0 +1,29 @@
+{
+	"tempHash": "00C4101464308F37",
+	"tbluHash": "001E4C444002AC37",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"f96c91ff438cd1b4",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_bValue",
+						"value": false
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"cc6fa68fff57eeb2",
+				{
+					"SetPropertyValue": {
+						"property_name": "DetectionDistance",
+						"value": 0
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

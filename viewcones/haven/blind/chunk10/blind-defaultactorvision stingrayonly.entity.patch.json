@@ -1,0 +1,318 @@
+{
+	"tempHash": "007133D143A1675D",
+	"tbluHash": "002404B938C33752",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"64c6039b9a3a4974",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Angle",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f89019dd54b9f646",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneOffset",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"39409a080070fa9b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneOffset",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d6bd00a6d6b14687",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneOffset",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"450836b7fa7258cd",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Angle",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"8ceba0e23325f34a",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Angle",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c214802eecc71d7f",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Angle",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": ["55c7b9366cdf63e7", { "RemovePropertyByName": "m_FarPlaneOffset" }]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NearPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarDepth",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_FarPlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneSize",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_MiddlePlaneOffset",
+						"value": { "x": 0, "y": 0 }
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

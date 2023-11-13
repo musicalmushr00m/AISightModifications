@@ -1,0 +1,19 @@
+{
+	"tempHash": "007133D143A1675D",
+	"tbluHash": "002404B938C33752",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{ "SetPropertyValue": { "property_name": "m_FarDepth", "value": 25 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"55c7b9366cdf63e7",
+				{ "SetPropertyValue": { "property_name": "m_FarPlaneSize", "value": { "x": 16.5, "y": 7.5 } } }
+			]
+		}
+	],
+	"patchVersion": 6
+}
