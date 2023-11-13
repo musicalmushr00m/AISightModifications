@@ -10,7 +10,6 @@
 			"group": "NPC - Global (except Haven Island)",
 			"name": "Blind",
 			"tooltip": "NPCs are blind and cannot see anything or spot you based on sight alone. This does not prevent AI from spotting you due to omniscience. (Does not affect Haven Island)",
-			"enabledByDefault": true,
 			"type": "select",
 			"contentFolders": ["viewcones/global/blind"]
 		},
@@ -32,7 +31,6 @@
 			"group": "NPC - Haven Island only",
 			"name": "Blind",
 			"tooltip": "NPCs are blind and cannot see anything or spot you based on sight alone. This does not prevent AI from spotting you due to omniscience. (Only affects Haven Island)",
-			"enabledByDefault": true,
 			"type": "select",
 			"contentFolders": ["viewcones/haven/blind"]
 		},
