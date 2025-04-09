@@ -1,0 +1,61 @@
+{
+	"tempHash": "0077E0D59EFFE1AD",
+	"tbluHash": "00103D36DE9C2AC4",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"579c4b0af4f05f9a",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"4bead55c60181500",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"fc3a10a0375d8c86",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"a069ac3b51f81eb2",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b77002ab1431ef60",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ceae9bd2f1fb0039",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3feb56b402a7216b",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"a6f150f4789e93bb",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"243c351205bf5abf",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		}
+	],
+	"patchVersion": 6
+}

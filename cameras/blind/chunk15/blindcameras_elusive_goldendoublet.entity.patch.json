@@ -1,0 +1,17 @@
+{
+	"tempHash": "0071D0E4863B00AF",
+	"tbluHash": "00DF36B70EDCAEE5",
+	"patch": [
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "72e7532f2fe1e3c5",
+					"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
+				},
+				"propertyName": "DetectionDistance",
+				"propertyOverride": { "type": "float32", "value": 9.0 }
+			}
+		}
+	],
+	"patchVersion": 6
+}
