@@ -1,0 +1,31 @@
+{
+	"tempHash": "00D9B106D7ABFEFA",
+	"tbluHash": "00BC2760EC34A91F",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"fddfa1b425b468d3",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"4467467e48efe0e5",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d8ee3142a077f8ec",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"a6d241cd4776f19c",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		}
+	],
+	"patchVersion": 6
+}

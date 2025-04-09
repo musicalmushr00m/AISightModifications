@@ -1,0 +1,25 @@
+{
+	"tempHash": "008BF14772B57FFE",
+	"tbluHash": "002BD6EAE154F593",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"e34a65e13fc94ae5",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ebfa0e619ff0bc49",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"efbe41240e6b74f9",
+				{ "RemovePropertyByName": "DetectionDistance" }
+			]
+		}
+	],
+	"patchVersion": 6
+}
