@@ -1,10 +1,10 @@
 {
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"id": "musicalmushr00m.AISightModifications",
 	"name": "AI Sight Modifications",
 	"description": "Provides multiple options for adjusting the vision of NPCs and Cameras, including disabling them outright.",
 	"authors": ["musicalmushr00m", "Atampy26", "muddye"],
-	"frameworkVersion": "2.33.6",
+	"frameworkVersion": "2.33.24",
 	"options": [
 		{
 			"group": "NPC - Global (except Haven Island)",

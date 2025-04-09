@@ -3,46 +3,25 @@
 	"tbluHash": "00FA83E7FF633C2E",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"66ddd764cedfc5a9",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["66ddd764cedfc5a9", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"95242db2158cce4e",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["95242db2158cce4e", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"46d7532ef42aa7aa",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["46d7532ef42aa7aa", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"afe79969b4135177",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["afe79969b4135177", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"91e151fbdb396007",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["91e151fbdb396007", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"68c9a3ce170ca449",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["68c9a3ce170ca449", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"87cf28743f0c47f3",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["87cf28743f0c47f3", { "RemovePropertyByName": "DetectionDistance" }]
 		}
 	],
 	"patchVersion": 6

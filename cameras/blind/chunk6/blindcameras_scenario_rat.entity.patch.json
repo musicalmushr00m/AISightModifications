@@ -3,16 +3,10 @@
 	"tbluHash": "002E69256922F8F6",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"47d5abbcb006918d",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["47d5abbcb006918d", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"dd29daa17704ca7b",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["dd29daa17704ca7b", { "RemovePropertyByName": "DetectionDistance" }]
 		}
 	],
 	"patchVersion": 6

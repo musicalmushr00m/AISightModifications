@@ -3,22 +3,13 @@
 	"tbluHash": "00AF0EBB71375913",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"64fcf77ae6ee81c1",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["64fcf77ae6ee81c1", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"296cbe7bcf0f82c8",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["296cbe7bcf0f82c8", { "RemovePropertyByName": "DetectionDistance" }]
 		},
 		{
-			"SubEntityOperation": [
-				"11e7529dd6b93c99",
-				{ "RemovePropertyByName": "DetectionDistance" }
-			]
+			"SubEntityOperation": ["11e7529dd6b93c99", { "RemovePropertyByName": "DetectionDistance" }]
 		}
 	],
 	"patchVersion": 6
